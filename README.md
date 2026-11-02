@@ -1,7 +1,9 @@
 # Ghost Media Hub
 
-A free video editor for Windows that runs entirely on your PC: cut, color, add text, music, transitions and captions, record your screen, and keep the last minutes of your screens with Ghost Replay. No cloud, no accounts.
+A video editor for Windows that runs on your own PC: cut, colour, add text, music, transitions and captions, record your screen, and keep the last minutes of your screens with Ghost Replay.
 
-**Website and download:** https://getghostwriter.github.io/media-hub/
+**Locked beta:** Ghost Media Hub is in a free beta for invited testers. The app opens only with an access key, sent by email. Request one at https://ghostmediaworks.com/media-hub/#request
 
-This repository holds Ghost Media Hub's releases. Made by Ghost Media LLC.
+**Website and download:** https://ghostmediaworks.com/media-hub/
+
+This repository holds Ghost Media Hub's releases. Made by Ghost Media Works.
